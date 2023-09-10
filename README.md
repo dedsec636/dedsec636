@@ -30,12 +30,12 @@
 <p align="left">I'd call myself a dedicated problem-solving enthusiast in the realm of technology. The joy of cracking these tech enigmas gives me a definite boost . My profound passion lies in the intricate workings of all things tech, where I'm always ready to dive into the digital Batcave 🦇 and explore its secrets<br><br>- 🔭 I’m currently working with FastAPI,React and Golang<br>- 🦇 Yea you guessed it a pretty hardcore Batfan ..<br>- 📖 I'm currently learning about Distributed Systems and Cyber Security<br>- 🔍 Exploring the intricacies of Operating Systems and Computer Networks <br>- 🤖 Reach out to me to team up for CTFs</p>
 
 ###
-
 <div align="left">
-  <a href="rakhulselvaraj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  <a href="mailto:rakhulselvaraj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=rakhulselvaraj@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Gmail Logo" />
   </a>
 </div>
+
 
 ###
 
